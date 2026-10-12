@@ -8,7 +8,7 @@
 "server": {
 "ip": "acorezero.qzz.io",
 "port": 20353,
-"version": "1.21.4",
+"version": "1.21.11",
 "try-creative": false
 },
 "position": {
@@ -20,18 +20,18 @@
 "utils": {
 "auto-auth": {
 "enabled": true,
-"password": "YOUR_BOT_LOGIN_PASSWORD"
+"password": "SenpaiSpider"
 },
 "anti-afk": {
 "enabled": true,
 "sneak": true
 },
-"chat-messages": {
+"chat-messages": {Yes}
 "enabled": false,
 "repeat": false,
 "repeat-delay": 120,
 "messages": [
-"Hello!"
+"Yes!"
 ]
 },
 "chat-log": true,
@@ -58,12 +58,12 @@
 "modules": {
 "avoidMobs": true,
 "combat": false,
-"beds": false,
+"beds": true,
 "chat": true,
 "console-commands": false
 },
 "combat": {
-"attack-mobs": false,
+"attack-mobs": true,
 "auto-eat": false
 },
 "beds": {
