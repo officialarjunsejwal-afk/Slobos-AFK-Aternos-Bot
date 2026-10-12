@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FIREE_SMP.aternos.me",
-    "port": 44905,
+    "ip": "acorezero.qzz.io",
+    "port": 20353,
     "version": "survival",
     "try-creative": false
   },
